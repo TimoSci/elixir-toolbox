@@ -1,4 +1,4 @@
-# The Y-Combinator can be used in to make an function recurse-able. Anonymous functions don't support recursion in elixir yet.
+# The Y-Combinator can be used in to make a function recurse-able. Anonymous functions don't support recursion in elixir yet.
 
 Module YCombinator do
 
